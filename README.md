@@ -20,11 +20,9 @@ A comprehensive computer vision and machine learning system for automated footba
   <img src="out/player_1_12.jpg" alt="Player 1_12" style="width: 100px; height: 100px;">
   
   <img src="out/player_1_13.jpg" alt="Player 1_13" style="width: 100px; height: 100px;">
-  <img src="out/player_1_14.jpg" alt="Player 1_14" style="width: 100px; height: 100px;">
-  <img src="out/player_1_15.jpg" alt="Player 1_15" style="width: 100px; height: 100px;">
   <img src="out/player_1_16.jpg" alt="Player 1_16" style="width: 100px; height: 100px;">
   
-  <img src="out/referenced_1.jpg" alt="Referenced 1" style="width: 100px; height: 100px;">
+  
 </div>
 
 ## System Components
