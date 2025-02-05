@@ -5,28 +5,6 @@ A comprehensive computer vision and machine learning system for automated footba
 
 ![Sample Screenshots](out/1.PNG)
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="out/player_1_1.jpg" alt="Player 1_1" style="width: 100px; height: 100px;">
-  <img src="out/player_1_2.jpg" alt="Player 1_2" style="width: 100px; height: 100px;">
-  <img src="out/player_1_3.jpg" alt="Player 1_3" style="width: 100px; height: 100px;">
-  <img src="out/player_1_4.jpg" alt="Player 1_4" style="width: 100px; height: 100px;">
-  
-  <img src="out/player_1_5.jpg" alt="Player 1_5" style="width: 100px; height: 100px;">
-  <img src="out/player_1_6.jpg" alt="Player 1_6" style="width: 100px; height: 100px;">
-  <img src="out/player_1_7.jpg" alt="Player 1_7" style="width: 100px; height: 100px;">
-  <img src="out/player_1_8.jpg" alt="Player 1_8" style="width: 100px; height: 100px;">
-  
-  <img src="out/player_1_9.jpg" alt="Player 1_9" style="width: 100px; height: 100px;">
-  <img src="out/player_1_10.jpg" alt="Player 1_10" style="width: 100px; height: 100px;">
-  <img src="out/player_1_11.jpg" alt="Player 1_11" style="width: 100px; height: 100px;">
-  <img src="out/player_1_12.jpg" alt="Player 1_12" style="width: 100px; height: 100px;">
-  
-  <img src="out/player_1_13.jpg" alt="Player 1_13" style="width: 100px; height: 100px;">
-  <img src="out/player_1_16.jpg" alt="Player 1_16" style="width: 100px; height: 100px;">
-  
-  
-</div>
-
 ## System Components
 
 ### 1. Object Detection (`tst.py`)
@@ -112,6 +90,28 @@ wget https://path-to-your-weights/besttt.pt
 - Flexible clustering parameters
 - Supports multiple image formats
 - Configurable color extraction methods
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="out/player_1_1.jpg" alt="Player 1_1" style="width: 100px; height: 100px;">
+  <img src="out/player_1_2.jpg" alt="Player 1_2" style="width: 100px; height: 100px;">
+  <img src="out/player_1_3.jpg" alt="Player 1_3" style="width: 100px; height: 100px;">
+  <img src="out/player_1_4.jpg" alt="Player 1_4" style="width: 100px; height: 100px;">
+  
+  <img src="out/player_1_5.jpg" alt="Player 1_5" style="width: 100px; height: 100px;">
+  <img src="out/player_1_6.jpg" alt="Player 1_6" style="width: 100px; height: 100px;">
+  <img src="out/player_1_7.jpg" alt="Player 1_7" style="width: 100px; height: 100px;">
+  <img src="out/player_1_8.jpg" alt="Player 1_8" style="width: 100px; height: 100px;">
+  
+  <img src="out/player_1_9.jpg" alt="Player 1_9" style="width: 100px; height: 100px;">
+  <img src="out/player_1_10.jpg" alt="Player 1_10" style="width: 100px; height: 100px;">
+  <img src="out/player_1_11.jpg" alt="Player 1_11" style="width: 100px; height: 100px;">
+  <img src="out/player_1_12.jpg" alt="Player 1_12" style="width: 100px; height: 100px;">
+  
+  <img src="out/player_1_13.jpg" alt="Player 1_13" style="width: 100px; height: 100px;">
+  <img src="out/player_1_16.jpg" alt="Player 1_16" style="width: 100px; height: 100px;">
+  
+  
+</div>
 
 ## Usage Examples
 
