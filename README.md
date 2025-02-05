@@ -180,4 +180,3 @@ MIT License - See LICENSE.md for details
 - Ultralytics for YOLO implementation
 - OpenCV community
 - Football data research contributors
-```
