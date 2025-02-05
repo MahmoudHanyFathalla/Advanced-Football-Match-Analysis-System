@@ -3,6 +3,8 @@
 ## Project Overview
 A comprehensive computer vision and machine learning system for automated football match analysis, featuring real-time object detection, video processing, and image categorization.
 
+![Sample Screenshots](out/1.PNG)
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="out/player_1_1.jpg" alt="Player 1_1" style="width: 100px; height: 100px;">
   <img src="out/player_1_2.jpg" alt="Player 1_2" style="width: 100px; height: 100px;">
